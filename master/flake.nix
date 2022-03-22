@@ -9,7 +9,7 @@
   
   inputs.src-syscall-master.flake = false;
   inputs.src-syscall-master.owner = "def-";
-  inputs.src-syscall-master.ref   = "refs/heads/master";
+  inputs.src-syscall-master.ref   = "master";
   inputs.src-syscall-master.repo  = "nim-syscall";
   inputs.src-syscall-master.type  = "github";
   
